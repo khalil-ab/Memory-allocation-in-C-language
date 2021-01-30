@@ -52,6 +52,6 @@ then you can start the app
   <img src="/5.png">
 </p>
 
-Here the link of the video simulation : 
+Here the link of the video simulation : https://youtu.be/Ge7bpvobZLY
 
 Here is my email if anyone would like to contact me : abouabdelmajidkhalil@gmail.com
